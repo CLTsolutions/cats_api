@@ -1,0 +1,19 @@
+body {
+    background: lightgray;
+    height: 100vh;
+}
+.header-content {
+    text-align: center;
+}
+.cats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.random_cats {
+    height: 50%;
+    width: 50%;
+    border-radius: 15px;
+    border: 10px double gray;
+}
